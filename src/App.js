@@ -4,6 +4,7 @@ import { Component } from 'react';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.components.jsx';
 
+//aaa
 class App extends Component{
   constructor() {
     super();
